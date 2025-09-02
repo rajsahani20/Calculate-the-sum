@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int main() {
+    // Printing your name
+    printf("Hello, my name is [Your Name]\n");
+
+    return 0;
+}
